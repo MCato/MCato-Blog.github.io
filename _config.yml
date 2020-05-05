@@ -9,7 +9,7 @@ name: Merle Cato
 description: Blog Development
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/MCato/MCato-Blog/master/images/myAvatar.png
+avatar: https://raw.githubusercontent.com/MCato/Blog/master/images/myAvatar.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: MCato/MCato-Blog
+  github: MCato/Blog
   instagram:
   linkedin:
   pinterest:
