@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Learning Word Press
 ---
+## Difficulty in Learning Wordpress
+Have you been in a scenario where knowing the backbone of a particular thing/ subject does nothing for you?
+Well, welcome to my world. Learning web development at college have prepared and equipped me with  the skills
+necessary to program in HTML,CSS and a little javascript and bootstrap. But little did I know  word press is 
+much more than just coding in a Markup Language.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## Learning About Templates And The Inner Workings For Wordpress
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## Understanding Wordpress Made Things Easier
